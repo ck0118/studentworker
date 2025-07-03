@@ -27,7 +27,7 @@ Our project utilized quantitative analysis to explore the correlation between Sp
 The graphic shows that public universities, with diverse funding, have low tuition fee reliance and do not run special programs—clustering in low-risk areas.
 In contrast, schools with special programs (blue dots) are more spread out, showing higher variation in both special admission ratios and tuition reliance. Institutions with over 10% special admission students and over 50% tuition reliance fall into the high-risk zone, raising concerns about financial stability and student support.
 
-<img src="https://github.com/ck0118/studentworker/blob/main/1.jpg?raw=true" width="300"/>
+<img src="https://github.com/ck0118/studentworker/blob/main/1.jpg?raw=true" width="600"/>
 
 #2. Relationship Between Special Admission Student Ratio and Tuition Reliance by School Type
 
