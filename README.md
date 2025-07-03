@@ -27,17 +27,22 @@ Our project utilized quantitative analysis to explore the correlation between Sp
 The graphic shows that public universities, with diverse funding, have low tuition fee reliance and do not run special programs—clustering in low-risk areas.
 In contrast, schools with special programs (blue dots) are more spread out, showing higher variation in both special admission ratios and tuition reliance. Institutions with over 10% special admission students and over 50% tuition reliance fall into the high-risk zone, raising concerns about financial stability and student support.
 
-![image](https://github.com/ck0118/studentworker/blob/main/1.jpg)
+<img src="https://github.com/ck0118/studentworker/blob/main/1.jpg?raw=true" width="300"/>
 
 #2. Relationship Between Special Admission Student Ratio and Tuition Reliance by School Type
 
 This plot categorizes universities by ownership type (public vs. private). As shown in the graphic, private universities generally exhibit higher tuition fee reliance, while public universities maintain lower levels. This is largely because public institutions benefit from diverse funding sources such as government subsidies, industry partnerships, and alumni donations. In contrast, private universities rely primarily on tuition fees or support from private foundations.
 As a result, it is rare for public universities to operate special admission programs. However, when they do, the increase in special admission ratios tends to be more pronounced, reflecting a steeper shift in financial strategy.
 
+![image](https://github.com/ck0118/studentworker/blob/main/2.jpg)
+
+
 #3. School Distribution
 
 A regional breakdown highlighted spatial imbalances. In southern Taiwan, special admission students make up 28.86% of the national total—disproportionately high given the region’s smaller student population. In contrast, the north has the most students but a lower special admission ratio (18.65%), while the east has minimal participation (1.91%).
 This pattern may reflect two structural pressures: difficulty in student recruitment for private universities in less resourced areas, and local industries’ demand for mid-level labor. To cope, schools may collaborate with factories to recruit international students under special programs—blurring the line between education and labor. This dual-purpose model raises concerns about educational quality and student rights.
+
+![image](https://github.com/ck0118/studentworker/blob/main/3.jpg)
 
 
 ## Results
