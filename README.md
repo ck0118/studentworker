@@ -33,19 +33,23 @@ Our project utilized quantitative analysis to explore the correlation between Sp
 
 To guide our analysis, we tested the following two hypotheses:
 
-Hypothesis 1: Universities with higher tuition dependency will have a higher ratio of international students.
+**Hypothesis 1: Universities with higher tuition dependency will have a higher ratio of international students.**
+
 	- Dependent Variable (DV): International student ratio
  	- Independent Variable (IV): Tuition income as a percentage of total revenue
   	- Controls: School type (TVET vs. general), Ownership (public vs. private)
-#Result: The regression model did not yield statistically significant results. As such, this hypothesis is not discussed further in the results section.
+   
+#Result: The regression model did not yield statistically significant results. As such, this hypothesis is not discussed further in the results section.**
 
-Hypothesis 2: Financially dependent universities are more likely to recruit international students through special admission programs (e.g., 3+4, New Southbound, Overseas Youth Training).
+**Hypothesis 2: Financially dependent universities are more likely to recruit international students through special admission programs(e.g., 3+4, New Southbound, Overseas Youth Training).**
+
 	- Dependent Variable (DV): Proportion of students from special programs
  	- Independent Variable (IV): Tuition income as a percentage of total revenue
   	- Controls: School type (TVET vs. general), Ownership (public vs. private), School Distribution
+   
 #Result: The model showed a significant positive relationship. Universities with greater tuition reliance, particularly private institutions, were more likely to enroll students through these special programs. This supports our second hypothesis and aligns with the patterns observed in our visualizations.
 
-Key Visualizations
+**Key Visualizations**
 
 Three key visualizations were generated to illustrate our findings:
 
